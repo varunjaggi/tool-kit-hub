@@ -7,4 +7,5 @@ Collection of Useful tools i use
 5. API Testing - https://www.thunderclient.com/
 6. Keyboard - https://www.raycast.com/
 7. Electron NextJs Template - https://github.com/RBFraphael/electron-nextjs-example
-8. 
+8. Community finder
+9. Reddit Graph for subreddits = https://anvaka.github.io/sayit/?query=notion
